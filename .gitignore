@@ -9,3 +9,9 @@ npm-debug.log
 test-repos
 .DS_Store
 .vscode
+
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
